@@ -1,0 +1,8 @@
+{
+    "member_id": "IT24103506",
+    "name": "Siriwardana S.A.D.V.I",
+    "model": "Ridge Regression",
+    "best_params": {
+        "alpha": 0.1
+    }
+}
