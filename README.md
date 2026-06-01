@@ -12,8 +12,6 @@ The objective of this project is to predict student academic performance using M
 
 ### All Model Comparison
 
-![All Models](results/plots/All_06_Model_Comparison.png)
-
 ![Actual vs Predicted](results/plots/Actual_vs_Predicted_MLR.png)
 
 ![R2 Comparison](results/plots/Model_R2_Comparison.png)
@@ -121,15 +119,6 @@ The model achieved the highest predictive performance with an R² score of appro
 | IT24103558 | Support Vector Regressor    |
 | IT24103609 | Multi-Layer Perceptron      |
 | IT24102613 | Decision Tree Regressor     |
-
----
-
-## Future Enhancements
-
-* Incorporate additional socioeconomic and behavioral features.
-* Explore ensemble learning and model stacking techniques.
-* Develop a web-based prediction dashboard.
-* Compare performance with deep learning approaches.
 
 ---
 
